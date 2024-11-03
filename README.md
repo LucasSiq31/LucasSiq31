@@ -1,7 +1,7 @@
 ## Olá👋!! Sou o Lucas :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSiq31&layout=donut&theme=noctis_minimus)](https://github.com/LucasSiq31/github-readme-stats)
-![LucasSiq31's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSiq31&show_icons=true&theme=noctis_minimus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSiq31&layout=donut&theme=cobalt2)](https://github.com/LucasSiq31/github-readme-stats)
+![LucasSiq31's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSiq31&show_icons=true&theme=cobalt2)
 
 ##
 
@@ -43,7 +43,7 @@
 
 <b>Visite meu projeto!</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=ChatLink&theme=noctis_minimus)](https://github.com/LucasSiq31/ChatLink)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=ChatLink&theme=cobalt2)](https://github.com/LucasSiq31/ChatLink)
 
 
           
