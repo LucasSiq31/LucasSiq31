@@ -43,7 +43,7 @@
 
 <b>Visite meu projeto!</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=ChatLink&theme=cobalt2)](https://github.com/LucasSiq31/ChatLink)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=Cubo_Magico&theme=cobalt2)](https://github.com/LucasSiq31/ChatLink)
 
 
           
