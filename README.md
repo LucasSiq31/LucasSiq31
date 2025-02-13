@@ -5,11 +5,9 @@
 
 ##
 
-- 🔭 Estou no curso técnico de Desenvolvimento de Sistemas do SENAI
-- 🌱 Estou aprendendo PHP
+- 🔭 Técnico de Desenvolvimento de Sistemas do SENAI
+- 🌱 Cursando Engenharia de Software
 - 💬 E-mail: lucas.alves.siqueira31@gmail.com
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Adoro Front-end
 
 <div> 
   <a href = "mailto:lucas.alves.siqueira31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
