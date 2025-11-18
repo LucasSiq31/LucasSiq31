@@ -41,7 +41,7 @@
 
 <b>Visite meu projeto!</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=Cubo_Magico&theme=cobalt2)](https://github.com/LucasSiq31/Cubo_Magico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSiq31&repo=PixelPaint&theme=cobalt2)](https://lucassiq31.github.io/PixelPaint/)
 
 
           
