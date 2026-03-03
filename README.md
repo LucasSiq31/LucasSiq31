@@ -50,9 +50,9 @@ Sempre tentando escrever código limpo e organizado.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 <br>
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-1E90FF?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/LucasSiq31/PixelPaint](https://github.com/LucasSiq31/PixelPaint))
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/PixelPaint-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/PixelPaint)
 
 ## 🪐 Saturn Sound
 > O SaturnSound é um player de música web moderno e interativo, que permite gerenciar playlists, controlar a reprodução e visualizar faixas com uma interface temática e responsiva.
@@ -60,9 +60,9 @@ Sempre tentando escrever código limpo e organizado.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 <br>
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-1E90FF?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/LucasSiq31/SaturnSound](https://github.com/LucasSiq31/SaturnSound))
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/SaturnSound-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/SaturnSound)
 
 ## 👻 GhostBlog
 > O GhostBlog é uma interface de blog estática e minimalista, projetada para oferecer uma experiência de leitura limpa e sem distrações, com foco total na tipografia e na responsividade..
@@ -70,9 +70,9 @@ Sempre tentando escrever código limpo e organizado.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 <br>
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-1E90FF?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/LucasSiq31/GhostBlog](https://github.com/LucasSiq31/GhostBlog))
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/GhostBlog-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/GhostBlog)
           
           
           
