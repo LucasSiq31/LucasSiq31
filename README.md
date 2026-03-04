@@ -44,35 +44,10 @@ Aqui você vai encontrar projetos como:<br>
 📌 Projetos acadêmicos<br>
 Sempre tentando escrever código limpo e organizado.
 
-## ✏️ Pixel Paint
-> O PixelPaint é uma ferramenta web interativa para criação de Pixel Art, permitindo desenhar em grades personalizáveis, escolher cores e exportar suas artes digitalmente.
+## 📃Visite Meus Projetos!
+> Acesse os projetos que eu desenvolvi por meio do meu portifólio, ou pelos repositórios do github.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
-<br>
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/PixelPaint-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/PixelPaint)
-
-## 🪐 Saturn Sound
-> O SaturnSound é um player de música web moderno e interativo, que permite gerenciar playlists, controlar a reprodução e visualizar faixas com uma interface temática e responsiva.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
-<br>
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/SaturnSound-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/SaturnSound)
-
-## 👻 GhostBlog
-> O GhostBlog é uma interface de blog estática e minimalista, projetada para oferecer uma experiência de leitura limpa e sem distrações, com foco total na tipografia e na responsividade..
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
-<br>
-[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-https://github.com/LucasSiq31/GhostBlog-blue?style=for-the-badge&logo=github)](https://github.com/LucasSiq31/GhostBlog)
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar-Portfólio-orange?style=for-the-badge)](https://lucassiq31.github.io/Portifolio/)
           
           
           
