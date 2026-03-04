@@ -11,7 +11,7 @@
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 -->
 
-# Sobre Mim
+# 🙋Sobre Mim
 <div style="background-color: dodgerblue; width: 100%; height: 3px; border-radius: 5px;"></div>
 
 Olá, me chamo Lucas e tenho 18 anos. Sou estudante de programação e estou me dedicando ao desenvolvimento web, buscando aprimorar minhas habilidades técnicas por meio de projetos práticos e estudos contínuos. Meu objetivo é crescer profissionalmente na área de tecnologia.
@@ -19,13 +19,13 @@ Olá, me chamo Lucas e tenho 18 anos. Sou estudante de programação e estou me 
 - 📖Desenvolvedor em formação
 - 🔧Técnico de Desenvolvimento de Sistemas - SENAI
 - 💻Engenharia de Software - UMC
-- 🧑‍💻Apaixonado por tecnologia
-- 🚀Sempre buscando evoluir.
+- 🚀Apaixonado por tecnologia
+- 🎯Sempre buscando evoluir.
 
-# Linguagens de Programação e Feramentas
+# 👨‍💻Linguagens de Programação e Feramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,python,java,mysql,figma,vscode)](https://skillicons.dev)<br><br>
 
-# Estatísticas
+# 📊Estatísticas
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=LucasSiq31&theme=dark) 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=LucasSiq31&type=languages&theme=dark)
 
