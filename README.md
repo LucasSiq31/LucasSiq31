@@ -14,7 +14,7 @@
 # 🙋Sobre Mim
 <div style="background-color: dodgerblue; width: 100%; height: 3px; border-radius: 5px;"></div>
 
-Olá, me chamo Lucas e tenho 18 anos. Sou estudante de programação e estou me dedicando ao desenvolvimento web, buscando aprimorar minhas habilidades técnicas por meio de projetos práticos e estudos contínuos. Meu objetivo é crescer profissionalmente na área de tecnologia.
+Olá, meu nome é Lucas e tenho 18 anos. Sou estudante de programação e estou me dedicando ao desenvolvimento web, buscando aprimorar minhas habilidades técnicas por meio de projetos práticos e estudos contínuos. Meu objetivo é crescer profissionalmente na área de tecnologia.
 
 - 📖Desenvolvedor em formação
 - 🔧Técnico de Desenvolvimento de Sistemas - SENAI
@@ -22,7 +22,7 @@ Olá, me chamo Lucas e tenho 18 anos. Sou estudante de programação e estou me 
 - 🚀Apaixonado por tecnologia
 - 🎯Sempre buscando evoluir.
 
-# 👨‍💻Linguagens de Programação e Feramentas
+# 👨‍💻Linguagens de Programação e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,python,java,mysql,figma,vscode)](https://skillicons.dev)<br><br>
 
 # 📊Estatísticas
