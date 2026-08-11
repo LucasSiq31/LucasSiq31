@@ -42,7 +42,7 @@ Olá, meu nome é Lucas e tenho 19 anos. Sou estudante de programação e estou 
 - 💻Engenharia de Software - UMC
 - 🚀Apaixonado por tecnologia
 - 🎯Sempre buscando evoluir.
-- 🐍Estudando interfaces gráficas em Python
+- 📲Estudando Aplicações Mobile (Dart e Flutter)
 
 # 📊Estatísticas
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=LucasSiq31&theme=dark) 
